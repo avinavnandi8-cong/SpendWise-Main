@@ -1,0 +1,16 @@
+{
+  "name": "SpendWise",
+  "short_name": "SpendWise",
+  "description": "Know where every rupee goes, and where it's headed. Track income, expenses, budgets and goals.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#F4F6F5",
+  "theme_color": "#0F7B63",
+  "icons": [
+    { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
